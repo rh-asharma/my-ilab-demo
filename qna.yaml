@@ -94,7 +94,7 @@ seed_examples:
 document_outline: |
   Some info about Amit Demo for Ilab
 document:
-  repo: none
-  commit: none
+  repo: https://github.com/rh-asharma/my-ilab-demo
+  commit: 217ab79b4c202a61e00a7dfd164b29f15e5e9412
   patterns:
     - data.md
