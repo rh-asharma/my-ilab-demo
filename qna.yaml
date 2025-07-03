@@ -1,0 +1,100 @@
+version: 3
+created_by: Amit Demo ILAB
+domain: aviation_disasters
+seed_examples:
+  - context: |
+      Air India Flight 171 was a scheduled passenger flight from Ahmedabad to London Gatwick that crashed on June 12, 2025. The Boeing 787-8 Dreamliner (registration VT-ANB) crashed shortly after takeoff from Sardar Vallabhbhai Patel International Airport at 1:38 PM local time. The aircraft crashed into a residential area called Meghani Nagar, specifically hitting a hostel building at B.J. Medical College in Ahmedabad. Of the 242 people aboard (230 passengers and 12 crew members), 241 were killed, making it one of India's deadliest aviation disasters. Only one passenger, a British national of Indian origin, survived and was hospitalized. The crash also killed 19-29 people on the ground and injured at least 60 others. This was the first fatal crash involving a Boeing 787 Dreamliner aircraft.
+    questions_and_answers:
+      - question: What was Air India Flight 171?
+        answer: Air India Flight 171 was a scheduled passenger flight from Ahmedabad, India to London Gatwick, UK that crashed on June 12, 2025, shortly after takeoff. It was operated by a Boeing 787-8 Dreamliner aircraft.
+
+      - question: When did the Air India Flight 171 crash occur?
+        answer: The Air India Flight 171 crash occurred on June 12, 2025, at 1:38 PM local time, shortly after the aircraft took off from Sardar Vallabhbhai Patel International Airport in Ahmedabad.
+
+      - question: What type of aircraft was involved in the Air India Flight 171 crash?
+        answer: The aircraft was a Boeing 787-8 Dreamliner with registration VT-ANB. This crash marked the first fatal accident involving a Boeing 787 Dreamliner since the aircraft type entered service.
+
+      - question: How many people were killed in the Air India Flight 171 crash?
+        answer: A total of 241 people aboard the aircraft were killed out of 242 people on board (230 passengers and 12 crew members). Additionally, 19-29 people on the ground were killed when the plane crashed into a residential area, bringing the total death toll to approximately 260-270 people.
+
+      - question: Were there any survivors from Air India Flight 171?
+        answer: Yes, there was one survivor - a British national of Indian origin who was a passenger on the flight. This person was hospitalized for treatment following the crash.
+
+  - context: |
+      Air India Flight 171 was a scheduled passenger flight from Ahmedabad to London Gatwick that crashed on June 12, 2025. The Boeing 787-8 Dreamliner (registration VT-ANB) crashed shortly after takeoff from Sardar Vallabhbhai Patel International Airport at 1:38 PM local time. The aircraft crashed into a residential area called Meghani Nagar, specifically hitting a hostel building at B.J. Medical College in Ahmedabad. Of the 242 people aboard (230 passengers and 12 crew members), 241 were killed, making it one of India's deadliest aviation disasters. Only one passenger, a British national of Indian origin, survived and was hospitalized. The crash also killed 19-29 people on the ground and injured at least 60 others. This was the first fatal crash involving a Boeing 787 Dreamliner aircraft.
+    questions_and_answers:
+      - question: Where did Air India Flight 171 crash?
+        answer: The aircraft crashed in a residential area called Meghani Nagar in Ahmedabad, specifically hitting a hostel building at B.J. Medical College. The crash occurred west of the airport shortly after takeoff.
+
+      - question: What was the nationality breakdown of passengers on Air India Flight 171?
+        answer: According to Air India's official statement, the 230 passengers comprised 169 Indian nationals, 53 British nationals, 7 Portuguese nationals, and 1 Canadian national.
+
+      - question: What made the Air India Flight 171 crash historically significant?
+        answer: This crash was historically significant because it was the first fatal accident involving a Boeing 787 Dreamliner aircraft since the type entered commercial service. It was also one of India's deadliest aviation disasters in decades.
+
+      - question: What happened to people on the ground during the Air India Flight 171 crash?
+        answer: The crash killed 19-29 people on the ground and injured at least 60 others. Many of the ground casualties were students, as the aircraft crashed into a hostel building at B.J. Medical College where students were staying.
+
+      - question: What was the destination of Air India Flight 171?
+        answer: Air India Flight 171 was bound for London Gatwick Airport in the United Kingdom when it crashed shortly after takeoff from Ahmedabad.
+
+  - context: |
+      Air India Flight 171 was a scheduled passenger flight from Ahmedabad to London Gatwick that crashed on June 12, 2025. The Boeing 787-8 Dreamliner (registration VT-ANB) crashed shortly after takeoff from Sardar Vallabhbhai Patel International Airport at 1:38 PM local time. The aircraft crashed into a residential area called Meghani Nagar, specifically hitting a hostel building at B.J. Medical College in Ahmedabad. Of the 242 people aboard (230 passengers and 12 crew members), 241 were killed, making it one of India's deadliest aviation disasters. Only one passenger, a British national of Indian origin, survived and was hospitalized. The crash also killed 19-29 people on the ground and injured at least 60 others. This was the first fatal crash involving a Boeing 787 Dreamliner aircraft.
+    questions_and_answers:
+      - question: How soon after takeoff did Air India Flight 171 crash?
+        answer: The aircraft crashed just moments after takeoff from Ahmedabad airport. The flight took off at 1:38 PM local time and crashed shortly thereafter, indicating the accident occurred within minutes of departure.
+
+      - question: What investigation agencies were involved in the Air India Flight 171 crash?
+        answer: India's Aircraft Accident Investigation Bureau led the investigation with assistance from officials from the United Kingdom, the United States, and other relevant authorities. The black boxes were recovered to help determine the cause of the crash.
+
+      - question: What was the registration number of the Air India Flight 171 aircraft?
+        answer: The Boeing 787-8 Dreamliner involved in the crash had the registration number VT-ANB. The aircraft was approximately 12 years old at the time of the accident.
+
+      - question: Which prominent figure was among the casualties of Air India Flight 171?
+        answer: Among the casualties was Vijay Rupani, though specific details about other notable individuals who perished in the crash were not extensively detailed in initial reports.
+
+      - question: How did the Air India Flight 171 crash impact Boeing's safety record?
+        answer: The crash was significant for Boeing as it marked the first fatal accident involving the Boeing 787 Dreamliner aircraft type. This occurred amid ongoing safety concerns about various Boeing aircraft models.
+
+  - context: |
+      Air India Flight 171 was a scheduled passenger flight from Ahmedabad to London Gatwick that crashed on June 12, 2025. The Boeing 787-8 Dreamliner (registration VT-ANB) crashed shortly after takeoff from Sardar Vallabhbhai Patel International Airport at 1:38 PM local time. The aircraft crashed into a residential area called Meghani Nagar, specifically hitting a hostel building at B.J. Medical College in Ahmedabad. Of the 242 people aboard (230 passengers and 12 crew members), 241 were killed, making it one of India's deadliest aviation disasters. Only one passenger, a British national of Indian origin, survived and was hospitalized. The crash also killed 19-29 people on the ground and injured at least 60 others. This was the first fatal crash involving a Boeing 787 Dreamliner aircraft.
+    questions_and_answers:
+      - question: What role did weather or external factors play in the Air India Flight 171 crash?
+        answer: The investigation is ongoing, and the exact cause of the crash has not been definitively determined. The aircraft reportedly experienced loss of power and thrust shortly after takeoff, but whether this was due to mechanical failure, weather conditions, or other factors is still being investigated by aviation authorities.
+
+      - question: What was the aircraft registration of the crashed Air India Flight 171?
+        answer: The crashed Boeing 787-8 Dreamliner had the registration 'VT-ANB', which was visible in the wreckage photos from the crash site.
+
+      - question: What was the timeline of the Air India Flight 171 crash?
+        answer: Air India Flight 171 took off from Ahmedabad Airport at 13:39 IST on June 12, 2025. Approximately thirty seconds after takeoff, the aircraft began experiencing difficulties, issued a mayday call, and crashed into the B. J. Medical College hostel in the Meghani Nagar neighbourhood of Ahmedabad.
+
+      - question: How did the Air India Flight 171 crash affect the local community?
+        answer: The crash devastated the local community, particularly affecting the B. J. Medical College and its students. Many students were staying in the hostel block that was struck by the aircraft. The incident traumatized the local neighbourhood and resulted in significant property damage beyond the immediate crash site.
+
+      - question: What safety concerns does the Air India Flight 171 crash raise about Boeing aircraft?
+        answer: The crash involved a Boeing 787-8 Dreamliner, and reports noted that Boeing planes have been plagued by safety issues on other types of aircraft. However, the specific cause of this crash is still under investigation, and it would be premature to draw conclusions about Boeing aircraft safety based solely on this incident
+
+  - context: |
+      Air India Flight 171 was a scheduled passenger flight from Ahmedabad to London Gatwick that crashed on June 12, 2025. The Boeing 787-8 Dreamliner (registration VT-ANB) crashed shortly after takeoff from Sardar Vallabhbhai Patel International Airport at 1:38 PM local time. The aircraft crashed into a residential area called Meghani Nagar, specifically hitting a hostel building at B.J. Medical College in Ahmedabad. Of the 242 people aboard (230 passengers and 12 crew members), 241 were killed, making it one of India's deadliest aviation disasters. Only one passenger, a British national of Indian origin, survived and was hospitalized. The crash also killed 19-29 people on the ground and injured at least 60 others. This was the first fatal crash involving a Boeing 787 Dreamliner aircraft.
+    questions_and_answers:
+      - question: Which agencies are investigating the Air India Flight 171 crash?
+        answer: India's Aircraft Accident Investigation Bureau is leading the investigation with assistance from the U.S. National Transportation Safety Board, the U.K., and other international aviation authorities. The aircraft's black boxes have been recovered to aid in the investigation.
+
+      - question: What was the impact on the ground from the Air India Flight 171 crash?
+        answer: The crash had a devastating impact on the ground, particularly affecting the B. J. Medical College hostel where students were staying. At least 29 people on the ground were killed, with many more injured. The crash affected the local community and infrastructure in the Meghani Nagar neighbourhood.
+
+      - question: How does the Air India Flight 171 crash compare to other aviation disasters in India?
+        answer: The Air India Flight 171 crash is considered one of India's worst aviation disasters in decades, with a death toll of approximately 270 people. It ranks among the most catastrophic aviation incidents in Indian aviation history.
+
+      - question: What was Air India's response to the Flight 171 crash?
+        answer: Air India confirmed the crash and the flight details, stating that Flight AI171 was operating from Ahmedabad to London Gatwick airport. The airline has been cooperating with investigation authorities and providing support to affected families.
+
+      - question: What challenges did rescue teams face at the Air India Flight 171 crash site?
+        answer: Rescue teams faced the challenge of searching through the wreckage of both the aircraft and the building it crashed into. The recovery of bodies took several days, with authorities working to identify victims and release bodies to their families. At least 60 people on the ground were also injured.
+document_outline: |
+  Some info about Amit Demo for Ilab
+document:
+  repo: none
+  commit: none
+  patterns:
+    - data.md
